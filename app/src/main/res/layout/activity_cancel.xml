@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/maintheme"
+    android:layout_height="match_parent"
+    tools:context=".CancelActivity">
+
+    <EditText
+        android:id="@+id/etpnr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="97dp"
+        android:layout_marginEnd="101dp"
+        android:ems="10"
+        android:hint="ENTER PNR"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/btcancel"
+        android:layout_width="327dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="225dp"
+        android:text="Click here to cancel your flight" />
+</RelativeLayout>

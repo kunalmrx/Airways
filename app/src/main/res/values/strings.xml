@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Airways</string>
+    <string name="class_prompt">Choose a class</string>
+    <string-array name="class_arrays">
+        <item>Bussiness</item>
+        <item>Economy</item>
+        <item>First Class</item>
+        <item>Premium Economy</item>
+    </string-array>
+</resources>
+
+

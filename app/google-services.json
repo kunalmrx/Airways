@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "297840502619",
+    "firebase_url": "https://airways-c429f.firebaseio.com",
+    "project_id": "airways-c429f",
+    "storage_bucket": "airways-c429f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297840502619:android:b51f0d2ef50757348d9c7e",
+        "android_client_info": {
+          "package_name": "com.example.airways"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297840502619-vao2b8bj7nmtehm64oiel3jpgit5i2ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAND0D5uX8UHGlMCuTQWHQ8PdLOOsXS2go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297840502619-vao2b8bj7nmtehm64oiel3jpgit5i2ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297840502619:android:4b126526dc5a3c5a8d9c7e",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297840502619-vao2b8bj7nmtehm64oiel3jpgit5i2ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAND0D5uX8UHGlMCuTQWHQ8PdLOOsXS2go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297840502619-vao2b8bj7nmtehm64oiel3jpgit5i2ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

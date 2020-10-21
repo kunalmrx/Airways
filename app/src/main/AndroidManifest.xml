@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.airways">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".CancelBookedTicket"></activity>
+        <activity android:name=".ShowBookedTicket" />
+        <activity android:name=".Thanking" />
+        <activity android:name=".SearchedFlights" />
+        <activity android:name=".EnterFlight" />
+        <activity android:name=".Flight" />
+        <activity android:name=".FareDetail" />
+        <activity android:name=".TicketBookingActivity" />
+        <activity android:name=".UpadateProfileActivity" />
+        <activity android:name=".CancelActivity" />
+        <activity android:name=".UpadetBookingActivity" />
+        <activity android:name=".CheckStatusActivity" />
+        <activity android:name=".PaymentActivity" />
+        <activity android:name=".UserActivity" />
+        <activity android:name=".SignupActivity" />
+        <activity android:name=".StartActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
